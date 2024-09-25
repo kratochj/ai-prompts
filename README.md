@@ -9,6 +9,7 @@ Currently, the repository contains the following folder:
 - `book-crafting/`: Prompts related to book and story creation
   - `plot-twist.md`: Prompt for generating interesting plot twists and turns in a story
   - `proofreader.md`: Prompt for proofreading and editing text
+  - `proofreader-2.md`: Advanced prompt for comprehensive creative writing feedback
 
 ## Usage
 
