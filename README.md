@@ -10,6 +10,8 @@ Currently, the repository contains the following folder:
   - `plot-twist.md`: Prompt for generating interesting plot twists and turns in a story
   - `proofreader.md`: Prompt for proofreading and editing text
   - `proofreader-2.md`: Advanced prompt for comprehensive creative writing feedback
+- `fun/`: Prompts used to discover some interesting aspects in AI
+  - `intelligence-report.md`: Prompt for checking a history in the chats and provide a comprehensive intelligence report 
 
 ## Usage
 
